@@ -5,7 +5,7 @@ require.config({
         "angular-aria": "https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.5/angular-aria.min",
         "angular-animate": "https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.5/angular-animate.min",
         "angular-message": "https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.5/angular-messages.min",
-        "angular-material": "https://cdnjs.cloudflare.com/ajax/libs/angular-material/1.1.3/angular-material.min"
+        "angular-material": "https://cdnjs.cloudflare.com/ajax/libs/angular-material/1.1.4/angular-material.min"
     },
     priority: ['angular'],
     shim: {
